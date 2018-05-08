@@ -1,8 +1,9 @@
 {
   "name": "postgres-container",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Postgres container which can be used for integration tests.",
   "main": "src/container.js",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/ayecue/postgres-container.git"
